@@ -8,6 +8,8 @@ f) Rename the column of Employee table using alter command.
 g) Delete the employee whose empno is 105.
  h) Find salaries of employee in Ascending Order.
  i) Find grouped salaries of employees.
+
+ 
 SOLUTION:
 A)	CREATE DATABASE EMPLOYEE_DETAILS
 USE EMPLOYEE_DETAILS
